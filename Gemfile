@@ -14,6 +14,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'webpacker'
 gem 'mini_magick'
 gem 'devise'
+gem 'pundit'
 
 
 group :development, :test do
